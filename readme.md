@@ -20,3 +20,5 @@
 6. In doGet or whatever get the response writer from "response" object 
 	ex - response.getWriter().write("Hello World");
 		response.getWriter().flush();
+### Day - 15th Sep 2015
+1. Reading about java's classloader
