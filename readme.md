@@ -26,3 +26,6 @@
 
 ### Day - 17th Sep 2015
 1. Read about class loaders
+
+### Day - 18th Sep 2015
+1. Doing CSS today
