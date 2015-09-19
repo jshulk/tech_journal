@@ -29,3 +29,6 @@
 
 ### Day - 18th Sep 2015
 1. Doing CSS today
+
+### Day - 19th Sep 2015
+1. Reading about parsing
