@@ -32,3 +32,7 @@
 
 ### Day - 19th Sep 2015
 1. Reading about parsing
+
+### Day - 20th Sep 2015
+1. Wasted most of the day watching useless stuff
+2. Completed a website on codecademy
