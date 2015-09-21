@@ -36,3 +36,6 @@
 ### Day - 20th Sep 2015
 1. Wasted most of the day watching useless stuff
 2. Completed a website on codecademy
+
+### Day - 21st Sep 2015
+1. Wrote some css @codecademy
