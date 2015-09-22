@@ -39,3 +39,6 @@
 
 ### Day - 21st Sep 2015
 1. Wrote some css @codecademy
+
+### Day - 22nd Sep 2015
+1. Wrote some css @codecademy
