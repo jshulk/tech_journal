@@ -42,3 +42,6 @@
 
 ### Day - 22nd Sep 2015
 1. Wrote some css @codecademy
+
+### Day - 23rd Sep 2015
+1. Learning about esprima
