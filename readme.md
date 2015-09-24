@@ -45,3 +45,6 @@
 
 ### Day - 23rd Sep 2015
 1. Learning about esprima
+
+### Day - 24th Sep 2015
+1. Learning about parsing
