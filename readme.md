@@ -48,3 +48,6 @@
 
 ### Day - 24th Sep 2015
 1. Learning about parsing
+
+### Day - 25th Sep 2015
+1. learning about peg.js
