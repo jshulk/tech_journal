@@ -51,3 +51,6 @@
 
 ### Day - 25th Sep 2015
 1. learning about peg.js
+
+### Day  - 28th Sep 2015
+1. Gathering webdesign resources.
