@@ -54,3 +54,6 @@
 
 ### Day  - 28th Sep 2015
 1. Gathering webdesign resources.
+
+### Day - 1st Oct 2015
+1. Learning elm today
