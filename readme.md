@@ -57,3 +57,6 @@
 
 ### Day - 1st Oct 2015
 1. Learning elm today
+
+### Day - 2nd Oct 2015
+1. Learning elm today again
