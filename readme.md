@@ -60,3 +60,6 @@
 
 ### Day - 2nd Oct 2015
 1. Learning elm today again
+
+### Day - 9th Oct 2015
+1. Learning about elm on livecoding.tv
