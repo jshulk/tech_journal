@@ -63,3 +63,6 @@
 
 ### Day - 9th Oct 2015
 1. Learning about elm on livecoding.tv
+
+### Day - 10th Oct 2015
+1. Reading thesis of FRP
