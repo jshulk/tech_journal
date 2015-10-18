@@ -66,3 +66,7 @@
 
 ### Day - 10th Oct 2015
 1. Reading thesis of FRP
+
+### Day - 18th Oct 2015 
+1. Reading about decoders
+2. Response of any http call through a decoder using "decodeString decoder string", which returns " OK value" or "Err value"
