@@ -73,3 +73,6 @@
 
 ### Day - 19th Oct 2015 
 1. Lame day, reading about decoders(elm)
+
+### Day - 3rd Nov 2015 
+1. Reading about css pseudo elements
